@@ -3,7 +3,7 @@
 
 this repo is try to make easy to use x-ui with docker-compose
 
-1) install docker
+1) install docker ( if installed already skip this step)
 
 ```bash
 curl -fsSL https://get.docker.com | sh
