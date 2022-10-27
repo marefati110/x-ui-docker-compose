@@ -23,6 +23,7 @@ docker compose up -d
 
 now you can check http://IP:54321
 
+```
 username: admin
-
 password: admin
+```
