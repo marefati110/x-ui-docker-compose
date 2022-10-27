@@ -5,6 +5,7 @@ services:
     container_name: x-ui
     image: enwaiax/x-ui
     network_mode: "host"
+    restart: unless-stopped
     volumes:
       - "./db:/etc/x-ui/"
       - "./cert:/root/cert/"
